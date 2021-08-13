@@ -1,4 +1,4 @@
-# Pattern Recognition - Covid-19 Prediction
+# Pattern Recognition: Covid-19 Prediction
 
 **Goal:** Predict the outcome of the disease Covid-19 using patient data along with background data, as the weather.
 **Dataset:** Available at https://www.kaggle.com/kimjihoo/coronavirusdataset?select=Case.csv
